@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>img/Archive_Icon.png</file>
+        <file>img/выйти.png</file>
+        <file>img/закрыть.png</file>
+        <file>img/создать.jpg</file>
+        <file>img/создать.png</file>
+        <file>img/сохр.jpg</file>
+        <file>img/вырезать.png</file>
+        <file>img/вставить.png</file>
+        <file>img/копировать.png</file>
+        <file>img/скачать.png</file>
+        <file>img/как.jpg</file>
+        <file>img/цвет.png</file>
+        <file>img/туда.png</file>
+        <file>img/сюда.png</file>
+        <file>img/about.png</file>
+        <file>img/qt.jpg</file>
+    </qresource>
+</RCC>
